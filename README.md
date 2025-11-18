@@ -81,7 +81,6 @@ When completed, projects will be pinned to the top of my profile.
 If you'd like to connect, discuss analytics or even just to offer some advice for someone aspiring to career switch: 
 
 - email: drew_van_k@hotmail.co.uk
-- LinkedIn: https://www.linkedin.com/in/drew-van-kooperen-8b88aa22b/
 
 ---
 
