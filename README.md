@@ -8,7 +8,7 @@ I'm an aspiring **Data Analyst** hoping to transition from my current background
 I enjoy working with data, revealing hidden patterns and being able to present insights in clear visual formats and storytelling. 
 
 Previous study in Natural Sciences(Chemistry), a blend of both chemistry and biology. 
-Currently studying for my BSc(Hons)**Cyber Security** with The Open University whilst building a strong foundation in: 
+Currently studying for my BSc(Hons) with The Open University whilst building a strong foundation in: 
 - **Python** (pands, NumPy, matplotlib)
 - **SQL**
 - **Data Cleaning & Wrangling**
@@ -72,7 +72,6 @@ I will be actively working on new projects to showcase:
 - 🔎 Small forecasting and trend analysis  
 - 💾 SQL-based business insights
 
-When completed, projects will be pinned to the top of my profile. 
 
 ---
 
