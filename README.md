@@ -76,13 +76,6 @@ When completed, projects will be pinned to the top of my profile.
 
 ---
 
-## 📫 Get in Touch! 
-
-If you'd like to connect, discuss analytics or even just to offer some advice for someone aspiring to career switch: 
-
-- email: drew_van_k@hotmail.co.uk
-
----
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
 
