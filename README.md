@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Drew 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Python, SQL, Data Visualisation</h3>
 
 ---
 ## 👩‍💻 About Me 
 
-I'm an aspiring **Data Analyst** hoping to transition from my current background in Pathology. 
+Currently working in Pathology and hoping to move into a **Cyber Security Analyst** / **Data Analyst** role.
 I enjoy working with data, revealing hidden patterns and being able to present insights in clear visual formats and storytelling. 
 
-Previous study in Natural Sciences(Chemistry), a blend of both chemistry and biology. 
-Currently studying for my BSc(Hons) with The Open University whilst building a strong foundation in: 
+
+Previous study in Natural Sciences(Chemistry), a blend of both chemistry and biology modules. 
+Currently studying for my BSc(Hons) Cyber Security with The Open University whilst building a strong foundation in: 
 - **Python** (pands, NumPy, matplotlib)
 - **SQL**
 - **Data Cleaning & Wrangling**
@@ -16,7 +16,7 @@ Currently studying for my BSc(Hons) with The Open University whilst building a s
 - **Version Control** (Git & GitHub)
 - **Jupyter Notebooks**
 
-My primary focus is on developing practical, portfolio-ready projects that reflect existing, real-world analytics problems.
+My primary focus is on gradually developing some practical, portfolio-ready projects that reflect existing, real-world analytics problems and reducing user risk.
 
 ---
 
@@ -24,7 +24,7 @@ My primary focus is on developing practical, portfolio-ready projects that refle
 
  **Languages & Libraries**
   -🐍 Python (pands, NumPy, matplotlib)
-  -📊 SQL
+  -📊 SQL 
   -📓 Jupyter Notebooks
   -📁 Git & GitHub
 
@@ -55,7 +55,7 @@ My primary focus is on developing practical, portfolio-ready projects that refle
 ---
 
 ## 🎯 Goals for 2025/2026
-- Transition into a **Data Analyst** or similiar data-focused role
+- Transition into a **Data Analyst** or **Cyber Security Analyst** role
 - Build at least **3-5 end-to-end portfolio projects**
 - Continue learning Python, SQL, visualisation and analytics best practices
 - Contribute to open-source or data-focused GitHub communities
