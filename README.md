@@ -8,15 +8,16 @@ I enjoy working with data, revealing hidden patterns and being able to present i
 
 
 Previous study in Natural Sciences(Chemistry), a blend of both chemistry and biology modules. 
-Currently studying for my BSc(Hons) Cyber Security with The Open University whilst building a strong foundation in: 
+Currently studying for my BSc(Hons) Cyber Security (Year 2) with The Open University whilst building a strong foundation in: 
 - **Python** (pands, NumPy, matplotlib)
 - **SQL**
 - **Data Cleaning & Wrangling**
 - **Exploratory Data Analysis (EDA)**
 - **Version Control** (Git & GitHub)
 - **Jupyter Notebooks**
+- **Governance, Risk & Compliance (GRC)**
 
-My primary focus is on gradually developing some practical, portfolio-ready projects that reflect existing, real-world analytics problems and reducing user risk.
+My primary focus is on gradually developing some practical, portfolio-ready projects alternating between data analytics and GRC as this is where my interest lies.
 
 ---
 
@@ -27,12 +28,14 @@ My primary focus is on gradually developing some practical, portfolio-ready proj
   -📊 SQL 
   -📓 Jupyter Notebooks
   -📁 Git & GitHub
+  -📊 Excel
 
  **Data Skills**
   - Data Cleaning & Preparation
   - Exploratory Data Analysis (EDA)
   - Data Visualisation
   - Problem Solving & Critical Thinking
+  - Risk Modelling
 
 **Other experience**
   - Cybersecurity foundations
@@ -50,6 +53,7 @@ My primary focus is on gradually developing some practical, portfolio-ready proj
 - Strengthening my **Python** and **SQL** skills
 - Creating reproducible workflows with clean code and documentation
 - Learning data storytelling using visuals
+- Creating compliance checklists/risk assessments 
 - Developing a polished portfolio to help support my career transition
 
 ---
@@ -59,6 +63,7 @@ My primary focus is on gradually developing some practical, portfolio-ready proj
 - Build at least **3-5 end-to-end portfolio projects**
 - Continue learning Python, SQL, visualisation and analytics best practices
 - Contribute to open-source or data-focused GitHub communities
+- Expand knowledge on s
 
 --- 
 
@@ -71,6 +76,7 @@ I will be actively working on new projects to showcase:
 - 📊 Visual storytelling dashboards and charts  
 - 🔎 Small forecasting and trend analysis  
 - 💾 SQL-based business insights
+- ❗ Risk and compliance checklists 
 
 
 ---
