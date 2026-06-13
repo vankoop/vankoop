@@ -1,88 +1,84 @@
-<h1 align="center">Hi, I'm Drew 👋</h1>
+## About Me
 
----
-## 👩‍💻 About Me 
+Hi, my name is Drew 👋 and I'm a year 3 BSc (Hons) Cyber Security student studying with The Open University where I've also completed a DipHE in Biology and a CertHE in Natural Sciences. I currently work in the healthcare science field within a diagnostic laboratory based in Pathology although my main interest lies with data analytics.
 
-Currently working in Pathology and hoping to move into a **Cyber Security Analyst** / **Data Analyst** role.
-I enjoy working with data, revealing hidden patterns and being able to present insights in clear visual formats and storytelling. 
+## Skills
 
+Below is a list of the skills I've learnt through university and personal study. Over time, I'm hoping to learn even more languages/visualisation tools to contribute towards my personal aspirations and career goals: 
 
-Previous study in Natural Sciences(Chemistry), a blend of both chemistry and biology modules. 
-Currently studying for my BSc(Hons) Cyber Security (Year 2) with The Open University whilst building a strong foundation in: 
-- **Python** (pands, NumPy, matplotlib)
-- **SQL**
-- **Data Cleaning & Wrangling**
-- **Exploratory Data Analysis (EDA)**
-- **Version Control** (Git & GitHub)
-- **Jupyter Notebooks**
-- **Governance, Risk & Compliance (GRC)**
+$${\color{blue}Languages}$$
+<div align="center">
+  <div align="left" style="display: inline-block;">
+      <ul>
+         <li>Python</li>
+         <li>SQL</li>
+         <li>Bash</li>
+         <li>Javascript (very light use)</li>
+      </ul>
+  </div>
+</div>
 
-My primary focus is on gradually developing some practical, portfolio-ready projects alternating between data analytics and GRC as this is where my interest lies.
+$${\color{lightgreen}Databases}$$
+<div align="center">
+  <div align="left" style="display: inline-block;">
+      <ul>
+        <li>SQLite</li>
+        <li>PostgreSQL</li>
+      </ul>
+  </div>
+</div>
 
----
+$${\color{red}Tools}$$
+<div align="center">
+  <div align="left" style="display: inline-block;">
+      <ul>
+         <li>Wireshark</li>
+         <li>Linux (VM)</li>
+         <li>Nmap</li>
+         <li>Microsoft Excel</li>
+         <li>Power BI</li>
+      </ul>
+  </div>
+</div>
 
-## 🔧 Tech Stack & Tools
+$${\color{purple}Further \space Learning}$$
+<div align="center">
+  <div align="left" style="display: inline-block;">
+      <ul>
+         <li>Python (pandas, matplotlib) & SQL specifically for data analytics</li>
+         <li>Tableau</li>
+         <li>Google Data Analytics Certificate</li>
+      </ul>
+  </div>
+</div>
 
- **Languages & Libraries**
-  -🐍 Python (pands, NumPy, matplotlib)
-  -📊 SQL 
-  -📓 Jupyter Notebooks
-  -📁 Git & GitHub
-  -📊 Excel
+## Projects
+### (This section will be updated with further projects)
 
- **Data Skills**
-  - Data Cleaning & Preparation
-  - Exploratory Data Analysis (EDA)
-  - Data Visualisation
-  - Problem Solving & Critical Thinking
-  - Risk Modelling
+* **TMDB 5000 Movie Analysis (using Python & SQL)** - a basic project which involved analysing movie ratings/earnings with the use of pandas & SQLite.
 
-**Other experience**
-  - Cybersecurity foundations
-  - Networking
-  - HTML/CSS
-  - Javascript
-  - Scientific data handling
-  - Research-focused analysis
-  - Statistics
+## Education
 
----
+* The Open University - BSc (Hons) Cyber Security (2023 - expected finish date October 2027)
+* The Open University - DipHE Biology (2021 - 2022)
+* The Open University - CertHE Natural Sciences (2021)
 
- ## 📊 What I'm currently working on
-- Building hands-on **data analytics projects**
-- Strengthening my **Python** and **SQL** skills
-- Creating reproducible workflows with clean code and documentation
-- Learning data storytelling using visuals
-- Creating compliance checklists/risk assessments 
-- Developing a polished portfolio to help support my career transition
+## Currently Working On 
 
----
+- Steam/gaming dataset analysis project
+- Google Data Analytics Certificate
 
-## 🎯 Goals for 2025/2026
-- Transition into a **Data Analyst** or **Cyber Security Analyst** role
-- Build at least **3-5 end-to-end portfolio projects**
-- Continue learning Python, SQL, visualisation and analytics best practices
-- Contribute to open-source or data-focused GitHub communities
-- Expand knowledge on s
+## Interests
 
---- 
+I have an avid interest in data analytics where I enjoy following the data analysis life cycle that allows for raw data to be converted into data that is presentable via visualisation tools and using coding languages. Doing this means that targeted audiences from potentially different backgrounds can understand what the data means, being able to answer questions and allow for the discovery of trends and patterns. 
 
-## 🗂️ Future Projects 
-
-I will be actively working on new projects to showcase: 
-
-- 📈 Exploratory Data Analysis (EDA)  
-- 🧼 Data cleaning and transformation pipelines  
-- 📊 Visual storytelling dashboards and charts  
-- 🔎 Small forecasting and trend analysis  
-- 💾 SQL-based business insights
-- ❗ Risk and compliance checklists 
+I feel that my mixed study background of both cyber security and sciences provides me with a unique outlook on data and I'm looking forward to seeing where this will take me in any analytics field. Outside of study, I love gaming and travelling. 
 
 
----
+## Connect
 
+[Linkedin](https://linkedin.com/in/drewvankoop) 
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
 
 
 
