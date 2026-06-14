@@ -47,7 +47,6 @@ $${\color{purple}Further \space Learning}$$
       <ul>
          <li>Python (pandas, matplotlib) & SQL specifically for data analytics</li>
          <li>Tableau</li>
-         <li>Google Data Analytics Certificate</li>
       </ul>
   </div>
 </div>
@@ -65,8 +64,7 @@ $${\color{purple}Further \space Learning}$$
 
 ## Currently Working On 
 
-- Steam/gaming dataset analysis project
-- Google Data Analytics Certificate
+- Gaming dataset analysis project
 
 ## Interests
 
